@@ -143,7 +143,7 @@ experiences:
   title: Experiences
   info:
     - role: Sr. Technical Lead
-      time: 2020 - Present
+      time: 2020 - 2024
       company: HUMANA Inc. - Atos/Eviden
       details: |
         - Lead a 7 member team to build 21 ETL/SSIS Processes to load 
@@ -311,7 +311,7 @@ certifications:
   list:
     - name: Azure Solution Architect - AZ-305
       start: 2022
-      end: Present
+      end: 2024
       organization: Microsoft
       credentialid: 603BFB6470DF2058
       credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/AntonyGeorge-0461/603BFB6470DF2058?sharingId=B0EC32067F4ED9DC
@@ -320,7 +320,7 @@ certifications:
 
     - name: Azure Administrator - AZ-104
       start: 2023
-      end:
+      end: 2024
       organization: Microsoft
       credentialid: B5D5C9FD616B873F
       credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/AntonyGeorge-0461/B5D5C9FD616B873F?sharingId=B0EC32067F4ED9DC
@@ -329,7 +329,7 @@ certifications:
 
     - name: Azure Data Engineer - DP-203
       start: 2023
-      end:
+      end: 2024
       organization: Microsoft
       credentialid: F8BF96275007416B
       credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/AntonyGeorge-0461/F8BF96275007416B?sharingId=B0EC32067F4ED9DC
