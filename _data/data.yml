@@ -66,7 +66,7 @@ sidebar:
       - item: Azure CI/CD DevOps
         link:
 
-      - item: Cloud App Service
+      - item: Project Management
         link:
 
       - item: Query Optimization
@@ -93,7 +93,7 @@ sidebar:
       - item: Reporting
         link:
 
-      - item: project Management
+      - item: Cloud App Service
         link:
 
 career-profile:
