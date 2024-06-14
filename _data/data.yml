@@ -31,13 +31,16 @@ sidebar:
   pdf: https://antonygrg8.github.io/AntonyGeorge_Resume.pdf
 
   languages:
-    title: Technical Proficiency
+    title: Industry Experience
     info:
       - idiom: Application Development
         level: Expert
 
+      - idiom: Project Management
+        level: Expert
+
       - idiom: Data warehouse / ETL
-        level: Advanced
+        level: Expert
 
       - idiom: Azure DevOps / CICD
         level: Advanced
