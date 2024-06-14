@@ -31,27 +31,27 @@ sidebar:
   pdf: https://antonygrg8.github.io/AntonyGeorge_Resume.pdf
 
   languages:
-    title: Languages
+    title: Technical Proficiency
     info:
-      - idiom: English
-        level: Native
+      - idiom: Application Development
+        level: Expert
 
-      - idiom: French
-        level: Professional
+      - idiom: Data warehouse / ETL
+        level: Advanced
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Azure DevOps / CICD
+        level: Advanced
 
   interests:
-    title: Interests
+    title: Soft Skills
     info:
-      - item: Climbing
+      - item: Attention to Details
         link:
 
-      - item: Snowboarding
+      - item: Problem-Solving
         link:
 
-      - item: Cooking
+      - item: Adaptability
         link:
 
 career-profile:
