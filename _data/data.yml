@@ -43,15 +43,57 @@ sidebar:
         level: Advanced
 
   interests:
-    title: Soft Skills
+    title: Key Skills
     info:
-      - item: Attention to Details
+      - item: .NET Core C#
         link:
 
-      - item: Problem-Solving
+      - item: Microservices
         link:
 
-      - item: Adaptability
+      - item: WebAPI
+        link:
+
+      - item: ETL/SSIS
+        link:
+
+      - item: SQL Server
+        link:
+
+      - item: Datawarehouse
+        link:
+
+      - item: Azure CI/CD DevOps
+        link:
+
+      - item: Cloud App Service
+        link:
+
+      - item: Query Optimization
+        link:
+
+      - item: Database Design
+        link:
+
+      - item: Scaled Agile Scrum
+        link:
+
+      - item: Data Visulization
+        link:
+
+      - item: Master Data Management
+        link:
+
+      - item: Test Data Management
+        link:
+
+      - item: Data Analysis
+        link:
+
+      - item: Reporting
+        link:
+
+      - item: project Management
         link:
 
 career-profile:
