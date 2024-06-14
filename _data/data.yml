@@ -57,8 +57,16 @@ sidebar:
 career-profile:
   title: Summary
   summary: |
-    I started my career as a Web Application Developer and In my recent roles as Technical Lead/Manager, I have gained experience leading development teams for projects in Application Development, Data warehouse, Azure Cloud Migration and DevOps. 
-I have a sound knowledge of project implementation using Scaled Agile Scrum methodology. My Technical knowledge coupled with the ability and passion to adapt with new technologies and teams gives me a competitive advantage on project implementation. I would welcome any chance to work as part of a dynamic team where I can make a significant contribution while developing his skills further.
+    I started my career as a Web Application Developer and In my recent roles 
+    as Technical Lead/Manager, I have gained experience leading development 
+    teams for projects in Application Development, Data warehouse, Azure Cloud 
+    Migration and DevOps. 
+    I have a sound knowledge of project implementation using Scaled Agile 
+    Scrum methodology. My Technical knowledge coupled with the ability and 
+    passion to adapt with new technologies and teams gives me a competitive 
+    advantage on project implementation. I would welcome any chance to work 
+    as part of a dynamic team where I can make a significant contribution 
+    while developing his skills further.
 
 education:
   title: Education
@@ -93,18 +101,35 @@ experiences:
       time: June 2020 - Present
       company: HUMANA Inc. - Atos/Eviden
       details: |
-        - Lead a 7 member team to build 21 ETL/SSIS Processes to load data from external vendors to Careplus systems.Scheduled 35 Jobs to automate processes using DollarU/Control-Ml.
-        - Requirement gathering and Technical assistance for the Dev Team, Query Optimization and Table indexing for Performance on SQL Server.
-        - Directed a team of 3 in developing a Web API using .NET Core C# to expose member demographic and authorization information to member/provider portals via APIGEE.
-        - Build 16 CI/CD Azure Build and Release Pipelines and integrated tools for Code quality (SonarQube), Vulnerability Scan (CheckmarxOne) and jFrog Artifactory for Package/Library Management
-        - Created 3 Dynatrace dashboards to monitor and track the health of Services, Infrastructure and Applications.
-        - Successfully assisted the team for the integration of Health Check and Monitoring capabilities in application and DevOps pipelines using Splunk, SiteScope 
-        - Change Management and Deployment Activities is 10% of overall work.
-        - Contribution to Application Design, Architecture and Estimation for new Projects took 15% of the work on a need basis.
+        - Lead a 7 member team to build 21 ETL/SSIS Processes to load 
+          data from external vendors to Careplus systems.Scheduled 
+          35 Jobs to automate processes using DollarU/Control-Ml.
+        - Requirement gathering and Technical assistance for the 
+          Dev Team, Query Optimization and Table indexing for 
+          Performance on SQL Server.
+        - Directed a team of 3 in developing a Web API using .NET Core 
+          C# to expose member demographic and authorization information 
+          to member/provider portals via APIGEE.
+        - Build 16 CI/CD Azure Build and Release Pipelines and 
+          integrated tools for Code quality (SonarQube), Vulnerability 
+          Scan (CheckmarxOne) and jFrog Artifactory for Package/Library 
+          Management
+        - Created 3 Dynatrace dashboards to monitor and track the health 
+          of Services, Infrastructure and Applications.
+        - Successfully assisted the team for the integration of Health 
+          Check and Monitoring capabilities in application and DevOps 
+          pipelines using Splunk, SiteScope 
+        - Change Management and Deployment Activities is 10% of overall 
+          work.
+        - Contribution to Application Design, Architecture and Estimation 
+          for new Projects took 15% of the work on a need basis.
         - Perform code reviews and ensure quality deliverables for the team.
-        - Performed the role of a Security Advocate to educate the team on security standards and scan vulnerabilities. Also accountable for completing firewall requests and Certificate creation and renewal requests.
-          - Bullet point
-          - Bullet point
+        - Performed the role of a Security Advocate to educate the team 
+          on security standards and scan vulnerabilities. Also accountable 
+          for completing firewall requests and Certificate creation and 
+          renewal requests.
+        - Bullet point
+        - Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
