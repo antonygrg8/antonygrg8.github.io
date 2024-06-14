@@ -98,7 +98,7 @@ experiences:
   title: Experiences
   info:
     - role: Sr. Technical Lead
-      time: June 2020 - Present
+      time: 2020 - Present
       company: HUMANA Inc. - Atos/Eviden
       details: |
         - Lead a 7 member team to build 21 ETL/SSIS Processes to load 
@@ -128,30 +128,50 @@ experiences:
           on security standards and scan vulnerabilities. Also accountable 
           for completing firewall requests and Certificate creation and 
           renewal requests.
-        - Bullet point
-        - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technical Project Manager
+      time: 2017 - 2020
+      company: HUMANA Inc. - Cognizant Technology Solutions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Provider Master Data Management (PMDM) involves a suite of 15 
+          in-house applications and IBM's InfoSphere MDM Tool used to apply 
+          probabilistic matching algorithms to link and master provider records.
+        - Responsibilities include support, maintenance and schedule of 
+          data feed from 10 different sources results in creating a unique view 
+          of each provider. All the Data feeds were loaded using SSIS Packages 
+          to a SQL Server database.
+        - Enterprise Provider Search Service (EPSS) is one of the top 5 critical 
+          services .NET C# (WCF) which exposes search functionality for Humana 
+          internal/external consumers through APIGEE. The service hit with more 
+          than 1 million requests per day.
+        - Lead the Development Team for EPSS monthly project releases, Code 
+          Deployment Activities and ensured availability of service using various 
+          Monitors and Health checks along with Dynatrace, DB Monitors and Splunk logs.
+        - Created monthly presentations for senior leadership on project road-map.
+        - Part of the core team for 2 RFP Proposals in the Provider area.
+    - role: Technical Lead
+      time: 2016 - 2017
+      company: HUMANA Inc. - Cognizant Technology Solutions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Performed as a Technical Lead for ASP.NET C#, SSIS/SSRS Implementation 
+          of 1 Web Application, 1 Web API, 4 SSIS ETL Process and 5 SSRS Reports.
+        - Assignment was an opportunity to work on an Enterprise Team which involved 
+          coordination with 18 different humana business functions and respective 
+          external vendors for their document management and communication needs.
+        - Enterprise Transmission Self Service (ETSS) integrates with a third-party 
+          tool Secure Transport (ST) to configure security settings required to 
+          set up drop and pick up folders
+    - role: Technical Project Lead
+      time: 2015 - 2016
+      company: HUMANA Inc. - Cognizant Technology Solutions
+      details: |
+        - Lead the configuration module for Enterprise Test Data Management team 
+          which involves access to 5 million member records in Production, across 
+          13 business functions, which are masked and loaded into respective lower 
+          environments.
+        - Assignment demands resolution of performance issues by Query Optimization 
+          techniques and working with DBA for data load and ETL issues.
+        - Single-handedly developed an ASP.NET Web Utility tool to improve team 
+          productivity and turn around time by 75% (from 2 days to within 1 day)
 
 certifications:
   title: Certifications
