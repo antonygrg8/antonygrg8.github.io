@@ -172,7 +172,95 @@ experiences:
           techniques and working with DBA for data load and ETL issues.
         - Single-handedly developed an ASP.NET Web Utility tool to improve team 
           productivity and turn around time by 75% (from 2 days to within 1 day)
-
+    - role: Sr. Application Developer
+      time: 2014 - 2015
+      company: HUMANA Inc. - Cognizant Technology Solutions
+      details: |
+        - Owned accountability of project releases and managing change requests 
+          for Provider contract management systems which involves 1 Silverlight 
+          Application and 4 WCF SOAP Services.Also worked with PDF document 
+          management libraries. 
+        - Work demands coordination with at-least 1 Business team and 3 other 
+          functional areas on a daily basis which helps improve time management 
+          and effective coordination.
+        - Involved in 3 RFP proposals for related analysis and documentations.
+        - Lead a 6 member offshore team  in migrating the code to MEF Framework 
+          using dependency Injection, MVVM Patterns/PRISM libraries.
+    - role: Sr. Data Engineer
+      time: 2012 - 2014
+      company: Blue Cross Blue Shield, LA - Cognizant Technology Solutions
+      details: |
+        - Performed as a client-facing lead Data Engineer in the development of a 
+          Care Management model using SSIS (ETL), SSRS (Reporting), SSAS (Analysis) 
+          with Member Demographics and Claims data.
+        - Gained experience in Evidence Based Medicine (EBM) and Data Analysis of 
+          1.5 million members to measure quality-of-care standards using KPI metrics 
+          and scores.
+    - role: Data Analyst
+      time: 2010 - 2012
+      company: Claimsphere - Cognizant Technology Solutions
+      details: |
+        - Lead a team of 1 UX Designer, 2 Web developers, 1 Data Analyst and 
+          2 Data Engineers to develop an NCQA Certified HEDIS Analytics Tool for 
+          Care Management.
+        - The tool was packaged as a Product for US Healthcare payer clients to 
+          help them improve HEDIS Scores/KPI values and certify Medicare member 
+          plans for 5 star rating. 
+        - The tool integrates data from 7 business areas for data visualisation 
+          after data profiling. 
+        - Technologies- Silverlight, SSIS, SSAS, SharePoint PerformancePoint 
+          Service (PPS) and Excel Service for ad-hoc analytics and visual mining. 
+          OLAP CUBES, MDX Queries.
+    - role: Sr. Web Developer
+      time: 2009 - 2010
+      company: Health Partners Management Group - Cognizant Technology Solutions
+      details: |
+        - Developed and single-handedly delivered an online member registration 
+          module with 5 user interfaces for registration and search functionality 
+          using ASP.NET C#, HTML/CSS and SQL Server as datastore.
+    - role: Software Developer
+      time: 2007 - 2009
+      company: Aetna Inc - Cognizant Technology Solutions
+      details: |
+        - Worked as a Developer for a C# .NET Framework Migration comprising 
+          25 windows applications for marketing, sales, quoting and reporting 
+          needs by Business teams.
+        - Resolved Issues incurred during code migration, identifying solutions 
+          for build issues due to multiple package references from 10-12 third-party 
+          licences.
+        - Took a lead role in travelling to client locations to receive knowledge 
+          transfer of 4 critical applications and assisted a 10+ member team in 
+          achieving quality deliverables.
+        - Performed a client-facing lead role in supporting releases and change 
+          management for APM CAS (Pharmacy Claims), NURA (Reporting), 
+          CSR(Customer Service) and GUID(Quote) systems. Quality of code was 
+          ensured using NUnit and FxCorp tools.
+        - Gained expertise to manage 4-5 project releases at a time which involve 
+          changes to SQL Server queries, Batch Scripts and .NET C#.
+    - role: Programmer Analyst
+      time: 2006 - 2007
+      company: Health Net - Cognizant Technology Solutions
+      details: |
+        - Owned and Build a tool to present XML file of 1 MB in HTML static page 
+          using XSLT
+    - role: Sr. Programmer
+      time: 2006 - 2006
+      company: Safiya Travels -  Asterisks Software Pvt. Ltd
+      details: |
+        - Owned and Developed a windows application to sync  a local Clipper 
+          database with SQL Server based on 50+ configured database fields 
+          using VB Scripts.
+    - role: Jr. Software Engineer
+      time: 2005 - 2006
+      company: Leather Creations / E-Relationship - Advanced Integrated Technology and System
+      details: |
+        - Part of a 5 member Development Team for a Web Application which manages 
+          100+ images and product documents and attributes of which were configured 
+          using  XML and Excel files and coded using Classic ASP with SQL Server DB.
+        - Core 3 member team to develop an Email Connectivity web tool to automate 
+          and schedule e-newsletter communications to end users and improved 
+          50% additional sales.Web Application was developed in Classic ASP, VB Script 
+          and Perl Script.
 certifications:
   title: Certifications
   list:
