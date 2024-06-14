@@ -264,43 +264,32 @@ experiences:
 certifications:
   title: Certifications
   list:
-    - name: CV Builder
-      start: 2020
-      end: 2021
+    - name: Azure Solution Architect - AZ-305
+      start: 2022
+      end: Present
       organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.google.com
-      credentialname: Google
+      credentialid: 603BFB6470DF2058
+      credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/AntonyGeorge-0461/603BFB6470DF2058?sharingId=B0EC32067F4ED9DC
+      credentialname: AZ-305
       details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
 
-        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-        fringilla vel. Ut euismod, sem sed vulputate venenatis,
-        justo diam viverra velit, sed rhoncus leo leo eu justo.
-        Suspendisse placerat risus ante, sed porta nisi blandit at.
-    - name: Git learning
-      start: 2019
+    - name: Azure Administrator - AZ-104
+      start: 2023
       end:
       organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.github.com
-      credentialname: Github
+      credentialid: B5D5C9FD616B873F
+      credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/AntonyGeorge-0461/B5D5C9FD616B873F?sharingId=B0EC32067F4ED9DC
+      credentialname: AZ-104
       details: |
-        Older certification. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
+
+    - name: Azure Data Engineer - DP-203
+      start: 2023
+      end:
+      organization: Microsoft
+      credentialid: F8BF96275007416B
+      credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/AntonyGeorge-0461/F8BF96275007416B?sharingId=B0EC32067F4ED9DC
+      credentialname: DP-203
+      details: |
 
 projects:
   title: Projects
