@@ -96,7 +96,10 @@ sidebar:
       - item: Reporting
         link:
 
-      - item: Cloud App Service
+      - item: Azure App Service
+        link:
+
+      - item: Power BI
         link:
 
 career-profile:
