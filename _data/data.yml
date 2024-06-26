@@ -69,7 +69,7 @@ sidebar:
       - item: Azure CI/CD DevOps
         link:
 
-      - item: Project Management
+      - item: Azure App Service
         link:
 
       - item: Query Optimization
@@ -78,10 +78,7 @@ sidebar:
       - item: Database Design
         link:
 
-      - item: Scaled Agile Scrum
-        link:
-
-      - item: Data Visualization
+      - item: Data Visualization / Power BI
         link:
 
       - item: Master Data Management
@@ -93,13 +90,13 @@ sidebar:
       - item: Data Analysis
         link:
 
-      - item: Reporting
+      - item: Reporting / SSRS
         link:
 
-      - item: Azure App Service
+      - item: Project Management
         link:
 
-      - item: Power BI
+      - item: Scaled Agile Scrum
         link:
 
 career-profile:
