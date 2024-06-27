@@ -320,27 +320,27 @@ certifications:
       start: 2022
       end: 2024
       organization: Microsoft
-      credentialid: 603BFB6470DF2058
+      credentialid: AZ-305
       credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/AntonyGeorge-0461/603BFB6470DF2058?sharingId=B0EC32067F4ED9DC
-      credentialname: AZ-305
+      credentialname: 603BFB6470DF2058
       details: |
 
     - name: Azure Administrator - AZ-104
       start: 2023
       end: 2024
       organization: Microsoft
-      credentialid: B5D5C9FD616B873F
+      credentialid: AZ-104
       credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/AntonyGeorge-0461/B5D5C9FD616B873F?sharingId=B0EC32067F4ED9DC
-      credentialname: AZ-104
+      credentialname: B5D5C9FD616B873F
       details: |
 
     - name: Azure Data Engineer - DP-203
       start: 2023
       end: 2024
       organization: Microsoft
-      credentialid: F8BF96275007416B
+      credentialid: DP-203
       credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/AntonyGeorge-0461/F8BF96275007416B?sharingId=B0EC32067F4ED9DC
-      credentialname: DP-203
+      credentialname: F8BF96275007416B
       details: |
 
 # projects:
