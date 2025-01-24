@@ -39,10 +39,10 @@ sidebar:
       - idiom: Project Management
         level: Expert
 
-      - idiom: Data warehouse / ETL
+      - idiom: Azure DevOps / CICD
         level: Expert
 
-      - idiom: Azure DevOps / CICD
+      - idiom: Data Engineering
         level: Advanced
 
   interests:
@@ -150,15 +150,9 @@ experiences:
   title: Experiences
   info:
     - role: Sr. Technical Lead
-      time: 2020 - 2024
-      company: HUMANA Inc. - Atos/Eviden
+      time: 2020 - 2025
+      company: HUMANA Inc. - Atos/Eviden/Tata Consultancy Services
       details: |
-        - Lead a 7 member team to build 21 ETL/SSIS Processes to load 
-          data from external vendors to Careplus systems.Scheduled 
-          35 Jobs to automate processes using DollarU/Control-Ml.
-        - Requirement gathering and Technical assistance for the 
-          Dev Team, Query Optimization and Table indexing for 
-          Performance on SQL Server.
         - Directed a team of 3 in developing a Web API using .NET Core 
           C# to expose member demographic and authorization information 
           to member/provider portals via APIGEE.
@@ -171,6 +165,12 @@ experiences:
         - Successfully assisted the team for the integration of Health 
           Check and Monitoring capabilities in application and DevOps 
           pipelines using Splunk, SiteScope 
+        - Lead a 7 member team to build 21 ETL/SSIS Processes to load 
+          data from external vendors to Careplus systems.Scheduled 
+          35 Jobs to automate processes using DollarU/Control-Ml.
+        - Requirement gathering and Technical assistance for the 
+          Dev Team, Query Optimization and Table indexing for 
+          Performance on SQL Server.
         - Change Management and Deployment Activities is 10% of overall 
           work.
         - Contribution to Application Design, Architecture and Estimation 
