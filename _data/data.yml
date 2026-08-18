@@ -13,10 +13,10 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: mailantonyg@gmail.com
+  email: antony.g@tcs.com
   phone: +1 502 715 9090
   timezone: Louisville,KY - EST <br>  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;   (Open to Relocate)
-  citizenship: H1B Visa with Approved I-140
+  # citizenship: H1B Visa with Approved I-140
   website: antonygrg8.github.io #do not add http://
   linkedin: antonygrg
   #xing: alandoe
@@ -51,13 +51,13 @@ sidebar:
       - item: .NET Core C#
         link:
 
-      - item: Microservices
+      - item: Microservices/WebAPI
         link:
 
       - item: Service Oriented Architecture (SOA)
         link:
 
-      - item: WebAPI
+      - item: Docker Containers
         link:
 
       - item: ETL/SSIS
@@ -75,10 +75,10 @@ sidebar:
       - item: Azure App Service
         link:
 
-      - item: Query Optimization
+      - item: Green Light API
         link:
 
-      - item: Database Design
+      - item: Database/System Design
         link:
 
       - item: Data Visualization / Power BI
@@ -90,7 +90,7 @@ sidebar:
       - item: Test Data Management
         link:
 
-      - item: Data Analysis
+      - item: Healthcare Data Analysis
         link:
 
       - item: Reporting / SSRS
@@ -150,12 +150,14 @@ experiences:
   title: Experiences
   info:
     - role: Sr. Technical Lead
-      time: 2020 - 2025
-      company: HUMANA Inc. - Atos/Eviden/Tata Consultancy Services
+      time: 2020 - Present
+      company: HUMANA Inc. - Atos-Eviden/Tata Consultancy Services
       details: |
-        - Directed a team of 3 in developing a Web API using .NET Core 
-          C# to expose member demographic and authorization information 
-          to member/provider portals via APIGEE.
+        - Build 6 CI/CD Azure Build and Release Pipelines 
+          (GLAPI Level 2 & 3 Certified) and integrated tools for 
+          Code quality (SonarQube), Vulnerability Scan (CheckmarxOne),
+          HashiCorp Vault for secrets and jFrog Artifactory for 
+          Package/Library Management.
         - Build 16 CI/CD Azure Build and Release Pipelines and 
           integrated tools for Code quality (SonarQube), Vulnerability 
           Scan (CheckmarxOne) and jFrog Artifactory for Package/Library 
