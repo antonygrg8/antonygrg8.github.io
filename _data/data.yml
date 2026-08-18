@@ -9,13 +9,14 @@ sidebar:
 
   # Profile information
   name: Antony George Palathingal
-  tagline: Technical Lead | Technical Project Manager
+  tagline: Technical Lead | Application/Data Engineer | DevOps | Azure 5x Certified
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: antony.g@tcs.com
   phone: +1 502 715 9090
-  timezone: Louisville,KY - EST <br>  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;   (Open to Relocate)
+  # timezone: Louisville,KY - EST <br>  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;   (Open to Relocate)
+  timezone: Louisville,KY - EST
   # citizenship: H1B Visa with Approved I-140
   website: antonygrg8.github.io #do not add http://
   linkedin: antonygrg
@@ -106,7 +107,7 @@ career-profile:
   title: Summary
   summary: |
     I started my career as a Web Application Developer and have more than 
-    18 years of IT industry experience. In my recent role as Technical Lead/
+    20 years of IT industry experience. In my recent role as Technical Lead/
     Manager, I have gained experience leading development teams for projects 
     in Application Development, Data warehouse, Azure Cloud Migration and 
     DevOps. Passionate about coding and hands-on learning, I consistently 
@@ -158,10 +159,9 @@ experiences:
           Code quality (SonarQube), Vulnerability Scan (CheckmarxOne),
           HashiCorp Vault for secrets and jFrog Artifactory for 
           Package/Library Management.
-        - Build 16 CI/CD Azure Build and Release Pipelines and 
-          integrated tools for Code quality (SonarQube), Vulnerability 
-          Scan (CheckmarxOne) and jFrog Artifactory for Package/Library 
-          Management
+        - Involved in Development of 2 Azure App Services built as 
+          Docker Container for Azure. Worked on Kubernetes implementation 
+          as a PoC on an individual project.
         - Created 3 Dynatrace dashboards to monitor and track the health 
           of Services, Infrastructure and Applications.
         - Successfully assisted the team for the integration of Health 
@@ -182,6 +182,9 @@ experiences:
           on security standards and scan vulnerabilities. Also accountable 
           for completing firewall requests and Certificate creation and 
           renewal requests.
+        - Lead a team of 5 in developing 3 Web APIs using .NET Core C# to 
+          expose member demographic and authorization information to 
+          member/provider portals via APIGEE.
     - role: Technical Project Manager
       time: 2017 - 2020
       company: HUMANA Inc. - Cognizant Technology Solutions
@@ -345,6 +348,14 @@ certifications:
       credentialname: F8BF96275007416B
       details: |
 
+    - name: Generative AI Leader
+      start: 2026
+      end: 2031
+      organization: Google
+      credentialid: 
+      credentialurl: 
+      credentialname: 
+      details: |
 # projects:
 #   title: Projects
 #   intro: >
@@ -414,7 +425,7 @@ certifications:
 #       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-  title: Soft Skills
+  title: STRENGTHS / Soft Skills
 
   toolset:
     - name: Attention to Details
